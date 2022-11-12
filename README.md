@@ -1,6 +1,7 @@
-Olá! Eu sou o Rafael 😀
+# Olá! Eu sou o Rafael 😀
 - developing myself in frontend 🤩
-- currently learning javascript 🌱
+- HTML, CSS, JS
+- currently learning typescript and react 🌱
 
 
 <div>
