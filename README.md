@@ -1,4 +1,4 @@
-# Olá! Eu sou o Rafael 😀
+# Hi! I am Rafael 😀
 - developing myself in frontend 🤩
 - HTML, CSS, JS
 - currently learning typescript and react 🌱
