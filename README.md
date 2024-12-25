@@ -1,5 +1,6 @@
 # Hi! I am Rafael 😀
-- I'm dev frontend Jr. VTEX 🤩
+- I'm dev frontend 🤩
+- Currently working with VTEX
 - HTML, CSS, JS
 - currently learning typescript and react 🌱
 
