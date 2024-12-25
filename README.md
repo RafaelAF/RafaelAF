@@ -8,8 +8,8 @@
 > About me
 - Graduated in Analisys and Development of systems, actualy working with e-commerce using the vtex plataform (cms and IO)
 
-> My Top skills
-<div>
+> Skills
+<div style="margin-bottom: 30px;">
     <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -19,6 +19,12 @@
     <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
     <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
     <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+</div>
+
+
+> Plataforms
+<div>
+    <img src="https://vtex.com/_next/static/media/vtex-logo.80485bcf.svg" alt="vtex-logo" />
 </div>
 
 <!--- HTML, CSS, JS
