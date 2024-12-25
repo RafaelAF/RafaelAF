@@ -9,7 +9,17 @@
 - Graduated in Analisys and Development of systems, actualy working with e-commerce using the vtex plataform (cms and IO)
 
 > My Top skills
-
+<div>
+    <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+    <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+    <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+    <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+    <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+    <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+</div>
 
 <!--- HTML, CSS, JS
 - currently learning typescript and react 🌱
