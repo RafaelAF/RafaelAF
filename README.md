@@ -31,9 +31,9 @@
 - currently learning typescript and react 🌱
 
 -->
-<!--<div>
+<div style="display: flex; margin-top: 30px;">
     <a href="https://www.frontendmentor.io/profile/RafaelAF">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelAF&show_icons=true&theme=dark"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelAF&layout=compact)](https://github.com/rafaelAF/github-readme-stats)"/>
-</div>-->
+    <!--<img style="width: 48%;display: block;" src="https://github-readme-stats.vercel.app/api?username=rafaelAF&show_icons=true&theme=dark"/>-->
+      <img style="width: 50%;display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelAF&layout=compact&theme=dark"/>
+</div>
   
