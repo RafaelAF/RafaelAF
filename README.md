@@ -21,6 +21,7 @@
     <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
     <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
     <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+    <img style="width: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 </div>
 
 
